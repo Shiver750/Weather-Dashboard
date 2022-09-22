@@ -7,7 +7,7 @@
     <br />
     Display 5 day forecast based on city via data from OpenWeather API.
     <br />
-    <a href="https://shiver750.github.io/Day-Planner/">Click here to access app!</a>
+    <a href="https://shiver750.github.io/Weather-Dashboard/">Click here to access app!</a>
   </p>
 </div>
 
@@ -20,7 +20,7 @@
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Schedule your 9-5 work day or just take notes for each hour, whatever you like.
+Keep track of 5 day weather forecast of various cities through out the United States.
 
 <!-- CONTACT -->
 ## Contact
