@@ -5,7 +5,7 @@ $(document).ready(function () {
     var lon = "";
 
 function getWeatherOneAPI(a,b) {
-    var queryURL2 = "https://api.openweathermap.org/data/2.5/onecall?lat=" + a + "&lon=" + b + "&exclude=minutely,hourly&appid=aec299195260a001b09706b5bfe740f7&units=imperial";
+    var queryURL2 = "https://api.openweathermap.org/data/2.5/onecall?lat=" + a + "&lon=" + b + "&exclude=minutely,hourly&appid=d1e5356fa27fb39adf0e22b0c2218ba7&units=imperial";
 
     
     $.ajax({
